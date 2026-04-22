@@ -1,1 +1,15 @@
-# Cybersecurity-portfolio
+# Cybersecurity Portfolio — Takejah O'Neal
+
+B.S. Information Technology, Cybersecurity Concentration  
+Former MDDR Analyst Intern — Varonis Systems  
+📍 Raleigh, NC
+
+## Projects
+
+| # | Project | Skills |
+|---|---------|--------|
+| 1 | [SIEM Home Lab](link-here) | Elastic Stack, Sysmon, Detection Engineering |
+| 2 | [Incident Response Simulation](link-here) | MITRE ATT&CK, Wireshark, IR Playbooks |
+| 3 | [Vulnerability Assessment](link-here) | Nessus, CVE Analysis, Risk Reporting |
+| 4 | [SOC Automation — PowerShell](link-here) | PowerShell, Log Parsing, Alerting |
+| 5 | [Threat Intel Pipeline — Python + SQL](link-here) | Python, SQLite, VirusTotal API |
